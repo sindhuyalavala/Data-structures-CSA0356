@@ -1,4 +1,4 @@
-[10:15 AM, 8/9/2023] Yashwant: #include <stdio.h>
+ #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
 
